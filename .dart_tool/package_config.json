@@ -47,10 +47,10 @@
       "name": "esptouch_flutter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-08-22T11:04:04.839074Z",
+  "generated": "2023-08-22T11:08:41.599391Z",
   "generator": "pub",
   "generatorVersion": "2.19.0-146.2.beta"
 }

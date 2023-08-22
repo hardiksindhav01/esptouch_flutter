@@ -1,10 +1,6 @@
 package com.smaho.eng.esptouch;
 
-package io.flutter.plugins.firebasecoreexample;
 
-import io.flutter.embedding.android.FlutterActivity;
-import io.flutter.embedding.engine.FlutterEngine;
-import io.flutter.plugins.firebase.core.FirebaseCorePlugin;
 
 import android.content.Context;
 import android.util.Log;
